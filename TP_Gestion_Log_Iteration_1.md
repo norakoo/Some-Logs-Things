@@ -250,7 +250,7 @@ int main()
 
     // Affichage du Menu "Gestion de logs"
     cout << "=====================================================" << endl;
-    cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
+    cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
     cout << "=====================================================" << endl;
     cout << "" << endl;
     cout << "Menu principal :" << endl;
@@ -293,3 +293,4 @@ int main()
 
 
 Dans ce code, nous avons procéder à quelques modifications/ajouts afin de rendre le menu plus lisible. Nous avons aussi rajouté un 4e choix.
+
