@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 4
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  * @version 4.0
  */
@@ -46,4 +46,5 @@ int main()
     } while (choix != 0); // Ici tant que choix est différent de 0, on continue la boucle.
 
     return 0;
+
 }
