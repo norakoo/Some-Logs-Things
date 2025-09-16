@@ -1,4 +1,4 @@
-### HAUTOT Nolan - LEFRANC Robin | TP Gestion Logs
+### HAUTOT Nolan | TP Gestion Logs
 
 # Iteration 3 - Fonctions et Modules
 
@@ -10,7 +10,7 @@ Code en C++ :
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 3
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  * @version 3.0
  */
@@ -79,7 +79,7 @@ void afficherMenu() // On créer la fonction et on colle le code pour afficher l
 {
     cout << "" << endl;
     cout << "=====================================================" << endl;
-    cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
+    cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
     cout << "=====================================================" << endl;
     cout << "" << endl;
     cout << "Menu principal :" << endl;
@@ -109,7 +109,7 @@ Code en C++ :
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 3
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  * @version 3.0
  */
@@ -160,7 +160,7 @@ void afficherMenu() // On créer la fonction et on colle le code pour afficher l
 {
     cout << "" << endl;
     cout << "=====================================================" << endl;
-    cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
+    cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
     cout << "=====================================================" << endl;
     cout << "" << endl;
     cout << "Menu principal :" << endl;
@@ -240,7 +240,7 @@ void afficherMenu() // On créer la fonction et on colle le code pour afficher l
     system("cls");
     cout << "" << endl;
     cout << "=====================================================" << endl;
-    cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
+    cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
     cout << "=====================================================" << endl;
     cout << "" << endl;
     cout << "Menu principal :" << endl;
@@ -285,7 +285,7 @@ Code du ```main.cpp``` :
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 3
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  * @version 3.0
  */
@@ -347,7 +347,7 @@ Code de ```menu.h``` après documentation :
 /**
  * @file menu.h
  * @brief Module de gestion du menu principal
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  */
 
@@ -383,7 +383,7 @@ Code de ```menu.cpp``` après documentation :
 /**
  * @file menu.cpp
  * @brief Implémentation du module de gestion du menu
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  */
 
@@ -397,7 +397,7 @@ void afficherMenu() // On créer la fonction et on colle le code pour afficher l
     system("cls");
     cout << "" << endl;
     cout << "=====================================================" << endl;
-    cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
+    cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
     cout << "=====================================================" << endl;
     cout << "" << endl;
     cout << "Menu principal :" << endl;
@@ -434,4 +434,5 @@ void choisirLog(int choix) // On créer la fonction et on colle le code pour gé
         cout << "Erreur ! Le choix " << choix << " n'est pas un choix valide !";
     }
 }
+
 ```
