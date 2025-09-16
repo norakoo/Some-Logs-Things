@@ -1,7 +1,7 @@
 /**
  * @file menu.cpp
  * @brief Implémentation du module de gestion du menu
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  */
 
@@ -15,7 +15,7 @@ void afficherMenu() // On créer la fonction et on colle le code pour afficher l
     system("cls");
     cout << "" << endl;
     cout << "=====================================================" << endl;
-    cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
+    cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
     cout << "=====================================================" << endl;
     cout << "" << endl;
     cout << "Menu principal :" << endl;
@@ -132,4 +132,5 @@ void analyserFichier(string nomFichier, string typeLog, ofstream& rapport) // On
     {
         rapport << "ERREUR : Fichier " << nomFichier << " non trouvé" << endl << endl;
     }
+
 }
