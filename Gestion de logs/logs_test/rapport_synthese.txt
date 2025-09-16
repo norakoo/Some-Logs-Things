@@ -1,0 +1,16 @@
+==========================================
+RAPPORT DE SYNTHESE DES LOGS - BTS CIEL
+Date de generation : Sep 16 2025
+==========================================
+
+--- Evenements systeme ---
+Nombre total d'evenements : 7
+
+--- Connexions reseau ---
+Nombre total d'evenements : 7
+
+--- Actions utilisateur ---
+Nombre total d'evenements : 7
+
+
+--- FIN DU RAPPORT ---

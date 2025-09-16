@@ -1,0 +1,7 @@
+2024-03-15 08:31:12 WIFI Connexion etablie : Reseau-BTS-CIEL
+2024-03-15 08:32:45 HTTP Navigation : google.com
+2024-03-15 09:20:33 HTTPS Navigation securisee : github.com
+2024-03-15 10:15:48 FTP Tentative de connexion FTP bloquee
+2024-03-15 11:30:22 RDP Connexion Bureau a distance vers 192.168.1.100
+2024-03-15 13:45:19 DNS Requete DNS : stackoverflow.com
+2024-03-15 15:22:41 WIFI Deconnexion du reseau

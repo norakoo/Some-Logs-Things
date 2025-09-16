@@ -1,0 +1,7 @@
+2024-03-15 08:30:00 SYSTEM Demarrage de Windows 11
+2024-03-15 08:30:15 SERVICE Windows Defender demarre
+2024-03-15 08:30:45 USER Connexion utilisateur Student
+2024-03-15 09:15:30 UPDATE Installation KB5034439 terminee
+2024-03-15 10:22:18 ANTIVIRUS Analyse complete : 0 menace
+2024-03-15 11:45:22 ERROR Erreur disque dur detectee
+2024-03-15 14:30:55 USER Deconnexion utilisateur Student

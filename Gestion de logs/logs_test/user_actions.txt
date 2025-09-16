@@ -1,0 +1,7 @@
+2024-03-15 08:45:30 OPEN Ouverture application : Visual Studio Code
+2024-03-15 09:12:15 FILE Creation fichier : main.cpp
+2024-03-15 10:30:22 COMPILE Compilation reussie du projet C++
+2024-03-15 11:15:45 UAC Demande elevation privileges pour installation
+2024-03-15 12:00:10 SAVE Sauvegarde projet sur lecteur externe
+2024-03-15 14:22:33 PRINT Impression document : rapport_stage.pdf
+2024-03-15 16:45:18 CLOSE Fermeture de toutes les applications
