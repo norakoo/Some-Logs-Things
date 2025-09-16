@@ -1,7 +1,7 @@
 /**
  * @file menu.h
  * @brief Module de gestion du menu principal
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  */
 
@@ -48,5 +48,6 @@ void genererRapport();
 void analyserFichier(std::string nomFichier, std::string typeLog, std::ofstream& rapport);
 
 #endif // MENU_H
+
 
 // ifndef, define et endif empêchent l'inclusion multiple du même fichier .h. Cela pourrait provoquer des erreurs de compilation.
