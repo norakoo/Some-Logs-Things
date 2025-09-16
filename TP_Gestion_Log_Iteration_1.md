@@ -1,4 +1,4 @@
-### HAUTOT Nolan - LEFRANC Robin | TP Gestion Logs
+### HAUTOT Nolan | TP Gestion Logs
 
 # Itération 1 - Menu Interactif C++
 
@@ -227,7 +227,7 @@ Code en C++ :
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 1
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 09/09/2025
  */
 
@@ -290,5 +290,6 @@ int main()
     return 0;
 }
 ```
+
 
 Dans ce code, nous avons procéder à quelques modifications/ajouts afin de rendre le menu plus lisible. Nous avons aussi rajouté un 4e choix.
