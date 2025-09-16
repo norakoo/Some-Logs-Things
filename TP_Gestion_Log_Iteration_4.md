@@ -8,7 +8,7 @@ Code de ```menu.h``` :
 /**
  * @file menu.h
  * @brief Module de gestion du menu principal
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  */
 
@@ -52,7 +52,7 @@ Code de ```menu.cpp``` :
 /**
  * @file menu.cpp
  * @brief Implémentation du module de gestion du menu
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  */
 
@@ -66,7 +66,7 @@ void afficherMenu() // On créer la fonction et on colle le code pour afficher l
     system("cls");
     cout << "" << endl;
     cout << "=====================================================" << endl;
-    cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
+    cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
     cout << "=====================================================" << endl;
     cout << "" << endl;
     cout << "Menu principal :" << endl;
@@ -150,7 +150,7 @@ Code de ```menu.h``` :
 /**
  * @file menu.h
  * @brief Module de gestion du menu principal
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  */
 
@@ -207,7 +207,7 @@ Code de ```menu.cpp``` :
 /**
  * @file menu.cpp
  * @brief Implémentation du module de gestion du menu
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  */
 
@@ -221,7 +221,7 @@ void afficherMenu() // On créer la fonction et on colle le code pour afficher l
     system("cls");
     cout << "" << endl;
     cout << "=====================================================" << endl;
-    cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
+    cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
     cout << "=====================================================" << endl;
     cout << "" << endl;
     cout << "Menu principal :" << endl;
@@ -347,7 +347,7 @@ Code de ```main.cpp``` :
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 4
- * @author HAUTOT Nolan - LEFRANC Robin
+ * @author HAUTOT Nolan
  * @date 16/09/2025
  * @version 4.0
  */
@@ -416,4 +416,5 @@ Nombre total d'evenements : 7
 
 
 --- FIN DU RAPPORT ---
+
 ```
