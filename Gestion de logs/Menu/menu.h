@@ -1,7 +1,7 @@
 /**
  * @file menu.h
  * @brief Module de gestion du menu principal
- * @author HAUTOT Nolan
+ * @author HAUTOT Nolan - LEFRANC Robin
  * @date 16/09/2025
  */
 
@@ -14,6 +14,7 @@
 #include <fstream>
 
 // On déclare les prototypes
+
 /**
  * @brief Affiche le menu principal du programme
  * @details Affiche le titre et toutes les options disponibles
@@ -48,6 +49,5 @@ void genererRapport();
 void analyserFichier(std::string nomFichier, std::string typeLog, std::ofstream& rapport);
 
 #endif // MENU_H
-
 
 // ifndef, define et endif empêchent l'inclusion multiple du même fichier .h. Cela pourrait provoquer des erreurs de compilation.

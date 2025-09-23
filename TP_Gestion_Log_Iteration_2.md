@@ -1,4 +1,4 @@
-### HAUTOT Nolan | TP Gestion Logs
+### HAUTOT Nolan - LEFRANC Robin | TP Gestion Logs
 
 # Itération 2 - Switch et Boucles
 
@@ -10,7 +10,7 @@ Code en C++ :
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 2
- * @author HAUTOT Nolan
+ * @author HAUTOT Nolan - LEFRANC Robin
  * @date 16/09/2025
  * @version 2.0
  */
@@ -34,7 +34,7 @@ int main()
 
     // Affichage du Menu "Gestion de logs"
     cout << "=====================================================" << endl;
-    cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
+    cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
     cout << "=====================================================" << endl;
     cout << "" << endl;
     cout << "Menu principal :" << endl;
@@ -112,7 +112,7 @@ Code en C++ :
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 2
- * @author HAUTOT Nolan
+ * @author HAUTOT Nolan - LEFRANC Robin
  * @date 16/09/2025
  * @version 2.0
  */
@@ -139,7 +139,7 @@ int main()
         // Affichage du Menu "Gestion de logs"
         cout << "" << endl;
         cout << "=====================================================" << endl;
-        cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
+        cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
         cout << "=====================================================" << endl;
         cout << "" << endl;
         cout << "Menu principal :" << endl;
@@ -213,7 +213,7 @@ Code en C++ (formaté) :
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 2
- * @author HAUTOT Nolan
+ * @author HAUTOT Nolan - LEFRANC Robin
  * @date 16/09/2025
  * @version 2.0
  */
@@ -241,7 +241,7 @@ int main()
         // Affichage du Menu "Gestion de logs"
         cout << "" << endl;
         cout << "=====================================================" << endl;
-        cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
+        cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
         cout << "=====================================================" << endl;
         cout << "" << endl;
         cout << "Menu principal :" << endl;
@@ -299,7 +299,7 @@ Code en C++ :
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 2
- * @author HAUTOT Nolan
+ * @author HAUTOT Nolan - LEFRANC Robin
  * @date 16/09/2025
  * @version 2.0
  */
@@ -326,7 +326,7 @@ int main()
         // Affichage du Menu "Gestion de logs"
         cout << "" << endl;
         cout << "=====================================================" << endl;
-        cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
+        cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
         cout << "=====================================================" << endl;
         cout << "" << endl;
         cout << "Menu principal :" << endl;
@@ -395,7 +395,7 @@ Code en C++ :
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 2
- * @author HAUTOT Nolan
+ * @author HAUTOT Nolan - LEFRANC Robin
  * @date 16/09/2025
  * @version 2.0
  */
@@ -423,7 +423,7 @@ int main()
         // Affichage du Menu "Gestion de logs"
         cout << "" << endl;
         cout << "=====================================================" << endl;
-        cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
+        cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
         cout << "=====================================================" << endl;
         cout << "" << endl;
         cout << "Menu principal :" << endl;
@@ -475,6 +475,5 @@ int main()
     return 0;
 }
 ```
-
 
 Dans ce code nous avons rajouté une variable ```compteur``` à laquelle on a attribué la valeur 0. A chaque boucle, donc chaque action, on incrémente 1 à la variable : ```compteur = compteur + 1```.

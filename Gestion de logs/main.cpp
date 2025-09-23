@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
  * @brief Programme de gestion de logs - Iteration 4
- * @author HAUTOT Nolan
+ * @author HAUTOT Nolan - LEFRANC Robin
  * @date 16/09/2025
  * @version 4.0
  */
@@ -32,13 +32,13 @@ int main()
         afficherMenu(); // On appelle la fonction afficherMenu()
 
         // Demander le choix de l'utilisateur
-        cin >> choix;
+        cin >> choix; // cin signifie console in
 
         choisirLog(choix); // On appelle la fonction choisirLog(choix)
 
         if (choix != 0)
         {
-            cout << "\nAppuyer sur Entree...";
+            cout << "\nAppuyer sur Entree..."; // cout signifie console out
             cin.ignore(); // Vide le buffer
             cin.get();    // Attend Entrée
         }
@@ -46,5 +46,4 @@ int main()
     } while (choix != 0); // Ici tant que choix est différent de 0, on continue la boucle.
 
     return 0;
-
 }

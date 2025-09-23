@@ -1,7 +1,7 @@
 /**
  * @file menu.cpp
  * @brief Implémentation du module de gestion du menu
- * @author HAUTOT Nolan
+ * @author HAUTOT Nolan - LEFRANC Robin
  * @date 16/09/2025
  */
 
@@ -15,7 +15,7 @@ void afficherMenu() // On créer la fonction et on colle le code pour afficher l
     system("cls");
     cout << "" << endl;
     cout << "=====================================================" << endl;
-    cout << "HAUTOT Nolan | CIEL - Gestion de logs" << endl;
+    cout << "HAUTOT Nolan - LEFRANC Robin | CIEL - Gestion de logs" << endl;
     cout << "=====================================================" << endl;
     cout << "" << endl;
     cout << "Menu principal :" << endl;
@@ -112,25 +112,24 @@ void analyserFichier(string nomFichier, string typeLog, ofstream& rapport) // On
 {
     ifstream fichier(nomFichier); // On déclare un objet fichier
 
-    if(fichier.is_open())
+    if(fichier.is_open()) // Si le fichier est ouvert
     {
-        string ligne;
-        int compteur = 0;
+        string ligne; // On créer un string ligne
+        int compteur = 0; // On initialise un compteur à 0
 
-        rapport << "--- " << typeLog << " ---" << endl;
+        rapport << "--- " << typeLog << " ---" << endl; // Ici on renvoie le titre du log qu'on a analyser
 
         while(getline(fichier,ligne))
         {
-            compteur++;
+            compteur++; // On rajoute 1 au compteur à chaque ligne
         }
 
-        rapport << "Nombre total d'evenements : " << compteur << endl;
+        rapport << "Nombre total d'evenements : " << compteur << endl; // On affiche le nombre total d'évènements grâce au compteur
         rapport << endl;
 
-        fichier.close();
+        fichier.close(); // On ferme le fichier
     } else
     {
         rapport << "ERREUR : Fichier " << nomFichier << " non trouvé" << endl << endl;
     }
-
 }
